@@ -1,4 +1,4 @@
-<img align="left" src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054_w200.webp" width="30%" style="display:inline;">
+<!-- <img align="left" src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054_w200.webp" width="30%" style="display:inline;">
 
 <img align="right" src="https://i.gifer.com/origin/a2/a2dac9417971fbc76bcc0a273145d054_w200.webp" width="30%" style="display:inline;">
 
@@ -14,7 +14,7 @@
 <br>
 
 
-<!--
+
 **BlacKnight-RH/BlacKnight-RH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
